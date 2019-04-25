@@ -3,3 +3,4 @@ git config --global user.name "test"
 git config --global user.email "test@gmail.com"
 
 git init
+git commit -m "message"
